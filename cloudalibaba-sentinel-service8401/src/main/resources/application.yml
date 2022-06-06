@@ -1,0 +1,32 @@
+server:
+  port: 8401
+
+spring:
+  application:
+    name: cloudalibaba-sentinel-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 10.211.55.10:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+        port: 8719  #默认8719，应用与Sentinel控制台交互的端口，应用本地会起一个该端口占用HttpServer
+      datasource:
+        ds1:
+          nacos:
+            server-addr: 10.211.55.10:8848
+            dataId: mazi
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
+#暴露所有的接口 方便进行监控
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+feign:
+  sentinel:
+    enabled: true # 激活Sentinel对Feign的支持

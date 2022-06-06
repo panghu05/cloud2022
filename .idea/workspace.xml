@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30875c25-31d7-4ede-985b-cbcf73a42ef1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cloud2022" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/Development/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Development\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true " />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="28oodZSgVvmUVCsDxLw1ek71OXm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39770114" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-provider-payment9001\src\main\resources" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-provider-payment9001" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloud-provider-payment8001\src\main\resources\com\atguigu\dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-sentinel-service8401\src\main\java" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-sentinel-service8401\src\main\resources" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-consumer-nacos-order83\src\main\java" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-consumer-nacos-order83\src\main\resources" />
+      <recent name="C:\Users\libowen\Desktop\cloud2022\cloudalibaba-provider-payment9001\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaymentMain9001">
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignOrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.FeignOrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.alibaba.MainApp8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.alibaba.NacosConfigClientMain3377" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.OrderFeignHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.alibaba.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.Payment8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.Payment8001Application" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.alibaba.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.PaymentMain9001" />
+      <item itemvalue="Spring Boot.OrderNacosMain83" />
+      <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+      <item itemvalue="Spring Boot.MainApp8401" />
+      <item itemvalue="Spring Boot.Payment8001Application" />
+      <item itemvalue="Spring Boot.Payment8002" />
+      <item itemvalue="Spring Boot.FeignOrderMain80" />
+      <item itemvalue="Spring Boot.OrderFeignHystrixMain80" />
+      <item itemvalue="Spring Boot.GateWayMain9527" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GateWayMain9527" />
+        <item itemvalue="Spring Boot.Payment8001Application" />
+        <item itemvalue="Spring Boot.OrderFeignHystrixMain80" />
+        <item itemvalue="Spring Boot.FeignOrderMain80" />
+        <item itemvalue="Spring Boot.Payment8002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30875c25-31d7-4ede-985b-cbcf73a42ef1" name="Default Changelist" comment="" />
+      <created>1651892388011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651892388011</updated>
+      <workItem from="1651892389601" duration="5114000" />
+      <workItem from="1651903890844" duration="20331000" />
+      <workItem from="1651969461344" duration="1195000" />
+      <workItem from="1651970858946" duration="134000" />
+      <workItem from="1651971013100" duration="3000" />
+      <workItem from="1651971154246" duration="62000" />
+      <workItem from="1651971237696" duration="137000" />
+      <workItem from="1651971396253" duration="65000" />
+      <workItem from="1651971481346" duration="42000" />
+      <workItem from="1651971526042" duration="29000" />
+      <workItem from="1651971584342" duration="66000" />
+      <workItem from="1651971653884" duration="3000" />
+      <workItem from="1651971659063" duration="32000" />
+      <workItem from="1651971720816" duration="314000" />
+      <workItem from="1651972067197" duration="85000" />
+      <workItem from="1651972170597" duration="40000" />
+      <workItem from="1651972228394" duration="26000" />
+      <workItem from="1651972283523" duration="96000" />
+      <workItem from="1651972601017" duration="105000" />
+      <workItem from="1651973063963" duration="366000" />
+      <workItem from="1651973437111" duration="15000" />
+      <workItem from="1651973469813" duration="62000" />
+      <workItem from="1651973550038" duration="1943000" />
+      <workItem from="1651990631470" duration="63000" />
+      <workItem from="1651990709620" duration="184000" />
+      <workItem from="1651990924053" duration="1059000" />
+      <workItem from="1651992974551" duration="3052000" />
+      <workItem from="1652228212366" duration="525000" />
+      <workItem from="1652228759733" duration="15000" />
+      <workItem from="1652268946325" duration="100000" />
+      <workItem from="1652334398656" duration="2123000" />
+      <workItem from="1652345178048" duration="725000" />
+      <workItem from="1652595229219" duration="1434000" />
+      <workItem from="1652597353148" duration="12000" />
+      <workItem from="1652597388576" duration="707000" />
+      <workItem from="1654478586602" duration="1505000" />
+      <workItem from="1654480404931" duration="14000" />
+      <workItem from="1654480815213" duration="121000" />
+    </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1654479307427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654479307427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <created>1654479345688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654479345688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1654481085736">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481085736" />
+    <state x="516" y="121" key="FileChooserDialogImpl" timestamp="1654480943668">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="516" y="121" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1654480943668" />
+    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog" timestamp="1654479018000">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654479018000" />
+    <state x="273" y="0" key="Github.UntrackedFilesDialog" timestamp="1654479022435">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="273" y="0" key="Github.UntrackedFilesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654479022435" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1654480936407">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1654480936407" />
+  </component>
+</project>
