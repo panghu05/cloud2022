@@ -327,7 +327,7 @@
       <workItem from="1652597388576" duration="707000" />
       <workItem from="1654478586602" duration="1505000" />
       <workItem from="1654480404931" duration="14000" />
-      <workItem from="1654480815213" duration="359000" />
+      <workItem from="1654480815213" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1654479307427</created>
@@ -350,7 +350,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654481149336</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新建123">
+      <created>1654481354509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654481354509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="新建123">
+      <created>1654481368742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654481368742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,21 +389,26 @@
     <MESSAGE value="2" />
     <MESSAGE value="2123" />
     <MESSAGE value="新建" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建" />
+    <MESSAGE value="新建123" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1654481354052">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1654481476364">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481354052" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481476364" />
+    <state x="0" y="70" key="DiffContextDialog" timestamp="1654481471579">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="0" y="70" key="DiffContextDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481471579" />
     <state x="516" y="121" key="FileChooserDialogImpl" timestamp="1654481313681">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="516" y="121" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1654481313681" />
-    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog" timestamp="1654481193068">
+    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog" timestamp="1654481437474">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481193068" />
+    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481437474" />
     <state x="273" y="0" key="Github.UntrackedFilesDialog" timestamp="1654479022435">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -398,5 +417,9 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="161" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1654480936407" />
+    <state x="404" y="183" key="git4idea.merge.GitPullDialog" timestamp="1654481402675">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="404" y="183" key="git4idea.merge.GitPullDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481402675" />
   </component>
 </project>
