@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30875c25-31d7-4ede-985b-cbcf73a42ef1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/atguigu/entities/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/atguigu/entities/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/panghu05/cloud2022.git" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -261,10 +274,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.GateWayMain9527" />
-        <item itemvalue="Spring Boot.Payment8001Application" />
         <item itemvalue="Spring Boot.OrderFeignHystrixMain80" />
         <item itemvalue="Spring Boot.FeignOrderMain80" />
         <item itemvalue="Spring Boot.Payment8002" />
+        <item itemvalue="Spring Boot.Payment8001Application" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +340,7 @@
       <workItem from="1652597388576" duration="707000" />
       <workItem from="1654478586602" duration="1505000" />
       <workItem from="1654480404931" duration="14000" />
-      <workItem from="1654480815213" duration="619000" />
+      <workItem from="1654480815213" duration="1151000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1654479307427</created>
@@ -364,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654481368742</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="新建123">
+      <created>1654481484125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654481484125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,18 +413,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="新建123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1654481476364">
+    <state x="246" y="3" width="1286" height="1016" key="CommitChangelistDialog2" timestamp="1654481983876">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481476364" />
+    <state x="246" y="3" width="1286" height="1016" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481983876" />
     <state x="0" y="70" key="DiffContextDialog" timestamp="1654481471579">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="0" y="70" key="DiffContextDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481471579" />
-    <state x="516" y="121" key="FileChooserDialogImpl" timestamp="1654481313681">
+    <state x="516" y="121" key="FileChooserDialogImpl" timestamp="1654481831813">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="516" y="121" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1654481313681" />
+    <state x="516" y="121" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1654481831813" />
     <state x="659" y="345" width="413" height="328" key="Github.ShareDialog" timestamp="1654481437474">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -413,13 +433,17 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="273" y="0" key="Github.UntrackedFilesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654479022435" />
-    <state x="161" y="0" key="SettingsEditor" timestamp="1654480936407">
+    <state x="161" y="0" key="SettingsEditor" timestamp="1654481504978">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="161" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1654480936407" />
-    <state x="404" y="183" key="git4idea.merge.GitPullDialog" timestamp="1654481402675">
+    <state x="161" y="0" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1654481504978" />
+    <state x="404" y="183" key="git4idea.merge.GitPullDialog" timestamp="1654482028833">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="404" y="183" key="git4idea.merge.GitPullDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481402675" />
+    <state x="404" y="183" key="git4idea.merge.GitPullDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654482028833" />
+    <state x="342" y="227" key="run.anything.popup" timestamp="1654481768161">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="342" y="227" key="run.anything.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1654481768161" />
   </component>
 </project>
