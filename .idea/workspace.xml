@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30875c25-31d7-4ede-985b-cbcf73a42ef1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -328,7 +327,7 @@
       <workItem from="1652597388576" duration="707000" />
       <workItem from="1654478586602" duration="1505000" />
       <workItem from="1654480404931" duration="14000" />
-      <workItem from="1654480815213" duration="121000" />
+      <workItem from="1654480815213" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1654479307427</created>
@@ -344,11 +343,29 @@
       <option name="project" value="LOCAL" />
       <updated>1654479345688</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新建">
+      <created>1654481149336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654481149336</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -356,21 +373,23 @@
     </ignored-roots>
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="2123" />
+    <MESSAGE value="新建" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1654481085736">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1654481354052">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481085736" />
-    <state x="516" y="121" key="FileChooserDialogImpl" timestamp="1654480943668">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1654481354052" />
+    <state x="516" y="121" key="FileChooserDialogImpl" timestamp="1654481313681">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="516" y="121" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1654480943668" />
-    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog" timestamp="1654479018000">
+    <state x="516" y="121" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1654481313681" />
+    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog" timestamp="1654481193068">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654479018000" />
+    <state x="659" y="345" width="413" height="328" key="Github.ShareDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1654481193068" />
     <state x="273" y="0" key="Github.UntrackedFilesDialog" timestamp="1654479022435">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
